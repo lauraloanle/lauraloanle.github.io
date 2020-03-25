@@ -4,7 +4,7 @@
 
 ### Data Management Project
 
-[Analyze Olympic History Dataset on Kaggle | SQL, Dimensional tables with PostgreSQL and AWS. ](/pdf/Visualization%20Report.pdf)
+[Analyze Olympic History Dataset on Kaggle](/pdf/Visualization%20Report.pdf)
 
 <img src="images/Screen%20Shot%202020-03-24%20at%2010.36.33%20PM.png"/>
 <img src="images/Screen%20Shot%202020-03-24%20at%2010.36.57%20PM.png"/>
