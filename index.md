@@ -2,34 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Data Management Project
 
-[Project 1 Title](/sample_page)
+[Analyze Olympic History Dataset on Kaggle | SQL, Dimensional tables with PostgreSQL and AWS. ](/pdf/sample_presentation.pdf)
+<img src="images/DM1.png"/>
+<img src="images/DM2.png"/>
+
+---
+
+### R Programming Product
+
+[Created interactive R Shiny app to allow decision makers comparing the difference among distributions in term of visualizations, observations and summary outputs](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Python Programming Product
+
+[Built a reactive dashboard in Python using Dash framework](https://laurale.shinyapps.io/G28765955/)
+<img src="images/Screen%20Shot%202020-03-24%20at%209.33.30%20PM.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
